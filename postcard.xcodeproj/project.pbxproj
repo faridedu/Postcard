@@ -13,6 +13,8 @@
 		E3254FE31A7012F800C0BA33 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3254FE21A7012F800C0BA33 /* Images.xcassets */; };
 		E3254FE61A7012F800C0BA33 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E3254FE41A7012F800C0BA33 /* LaunchScreen.xib */; };
 		E3254FF21A7012F800C0BA33 /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3254FF11A7012F800C0BA33 /* postcardTests.swift */; };
+		E32C7FE31A765CC800FDB638 /* farid (4).JPG in Resources */ = {isa = PBXBuildFile; fileRef = E32C7FE21A765CC800FDB638 /* farid (4).JPG */; };
+		E3DA8F2F1A76B61300E8B780 /* Photo on 8-30-14 at 9.04 AM.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E3DA8F2E1A76B61300E8B780 /* Photo on 8-30-14 at 9.04 AM.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		E3254FEB1A7012F800C0BA33 /* postcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3254FF01A7012F800C0BA33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3254FF11A7012F800C0BA33 /* postcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardTests.swift; sourceTree = "<group>"; };
+		E32C7FE21A765CC800FDB638 /* farid (4).JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "farid (4).JPG"; sourceTree = "<group>"; };
+		E3DA8F2E1A76B61300E8B780 /* Photo on 8-30-14 at 9.04 AM.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Photo on 8-30-14 at 9.04 AM.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		E3254FD91A7012F800C0BA33 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E3DA8F2E1A76B61300E8B780 /* Photo on 8-30-14 at 9.04 AM.jpeg */,
+				E32C7FE21A765CC800FDB638 /* farid (4).JPG */,
 				E3254FDA1A7012F800C0BA33 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +198,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3DA8F2F1A76B61300E8B780 /* Photo on 8-30-14 at 9.04 AM.jpeg in Resources */,
 				E3254FE11A7012F800C0BA33 /* Main.storyboard in Resources */,
 				E3254FE61A7012F800C0BA33 /* LaunchScreen.xib in Resources */,
 				E3254FE31A7012F800C0BA33 /* Images.xcassets in Resources */,
+				E32C7FE31A765CC800FDB638 /* farid (4).JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +415,7 @@
 				E3254FF71A7012F800C0BA33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E3254FF81A7012F800C0BA33 /* Build configuration list for PBXNativeTarget "postcardTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +424,7 @@
 				E3254FFA1A7012F800C0BA33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
